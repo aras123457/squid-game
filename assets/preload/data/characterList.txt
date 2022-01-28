@@ -1,7 +1,6 @@
-bf
-dad
-gf
-spooky
+bfsquid
+gf-squid
+guard
 pico
 mom
 mom-car
